@@ -1,6 +1,6 @@
-package peactic_question;
+package shorting;
 
-public class meargetwosortedarray {
+public class mearge_two_sorted_array {
 	
 	public static void shorted(int[] a,int[] b,int[] c) {
 		int i=0,j=0,k=0 ;
